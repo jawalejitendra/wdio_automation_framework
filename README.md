@@ -1,5 +1,6 @@
 # WDIO Test automation framework
 
+  
 ## Steps followed to create sample wdio automation framework
 Install NodeJS (preferably NVM)
 

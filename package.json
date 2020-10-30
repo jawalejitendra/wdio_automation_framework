@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "WDIO automation framework",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "wdio wdio.conf.js"
   },
   "author": "",
   "license": "ISC",
